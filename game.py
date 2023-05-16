@@ -1,8 +1,3 @@
-# Space_Invaders
-Build the classic arcade game where you shoot down alien ships.
-To build a classic arcade game where you shoot down alien ships using Python, you can utilize the Pygame library, which provides functionalities for game development. Here's an example code for a simple implementation of the game:
-
-```python
 import pygame
 import random
 
